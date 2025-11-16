@@ -26,32 +26,41 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe-xd/adobe-xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; margin-top: 20px; background-color: white">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="50" height="50"/>
+  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="50" height="50"/>
+  
+
+  <img style="background:white; border-radius: 10px; padding:5px; display: flex; align-items: center; justify-content: center;" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="Express.js" width="85" height="65"/>
+
+
+  <img src="https://andrewbeeken.co.uk/wp-content/uploads/2018/11/nodejs.jpg?w=816" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  
+  <!-- Adobe XD custom icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="50" height="50"/>
+  
+  <!-- Adobe Illustrator custom icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
+</div>
+
 
 ---
 
-### 💡 Notes
-- Icons are **centered** for better alignment.  
-- Sections are **separated by horizontal lines (`---`)** for clarity.  
-- You can **add links to your social media** for better networking.  
+### 💡 About Me
+- I'm a passionate **Frontend Developer** from Morocco with experience in **React, React Native, Next.js, Node.js, and Express.js**.
+- I love building **beautiful, responsive, and user-friendly web applications**.
+- I have been working as a **Freelancer** for several years, delivering projects to happy clients.
+- Always eager to **learn new technologies** and explore modern tools to improve my skills.
+- My goal is to **create impactful digital experiences** and contribute to innovative projects.
 
 ---
 
-إذا أحببت، أقدر أن أصنع لك **نسخة كاملة مع تأثيرات ألوان وخلفية، مع Hover على أيقونات الأدوات** لتصبح أكثر احترافية على GitHub README.  
-
-هل تريد أن أفعل ذلك؟
