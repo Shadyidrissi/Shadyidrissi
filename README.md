@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shady Idrissi</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate full-stack developer from Morocco</h3>
 
 <p align="center">
   <img alt="developer" width="300" src="https://www.pngkey.com/png/full/306-3064446_developer-developer-png.png"/>
